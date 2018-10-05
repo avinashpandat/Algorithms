@@ -58,8 +58,7 @@ int main() {
         cout << endl;
         cout << "The Linear Combination for extended gcd is:";
         cout << a << "(" << x << ") + " << b << "(" << y << ")";
-    }
-    else {
+    } else {
         cout<<"GCD calculation not possible for given numbers!";
     }
     return 0;

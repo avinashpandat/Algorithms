@@ -2,7 +2,7 @@
 
 [![Gitter](https://badges.gitter.im/NITSkmOS/algo.svg)](https://gitter.im/NITSkmOS/algo?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 [![NITSkmOS Algorithms](https://img.shields.io/badge/NITSkmOS-Algorithms-blue.svg)](https://github.com/NITSkmOS/Algorithms)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/29024673e94b48459809432cdd280e39)](https://app.codacy.com/app/NITSkmOS/Algorithms?utm_source=github.com&utm_medium=referral&utm_content=NITSkmOS/Algorithms&utm_campaign=Badge_Grade_Settings)
+[![Build Status](https://travis-ci.com/NITSkmOS/Algorithms.svg?branch=master)](https://travis-ci.com/NITSkmOS/Algorithms)
 [![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/NITSkmOS/Algorithms/blob/master/LICENSE)
 
 
@@ -12,7 +12,7 @@ This repository contains examples of various algorithms written on different pro
 
 | Algorithm                                                                                       | C                                     | CPP                                   | Java                                  | Python                                |
 |:----------------------------------------------------------------------------------------------- |:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|
-| [Euclidean GCD](https://en.wikipedia.org/wiki/Euclidean_algorithm)                              | [:octocat:](euclidean_gcd/C)          |                                      |                                        | [:octocat:](euclidean_gcd/Python)     |
+| [Euclidean GCD](https://en.wikipedia.org/wiki/Euclidean_algorithm)                              | [:octocat:](euclidean_gcd/C)          |                                      | [:octocat:](euclidean_gcd/Java)        | [:octocat:](euclidean_gcd/Python)     |
 | [QuickSort](https://en.wikipedia.org/wiki/Quicksort)                                            |                                       |                                       |                                       | [:octocat:](quicksort/Python)         |
 | [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort)                                          |                                       |                                       |                                       | [:octocat:](merge_sort/Python)        |
 | [Insertion Sort](https://en.wikipedia.org/wiki/Insertion_sort)                                  | [:octocat:](insertion_sort/C)         | [:octocat:](insertion_sort/Cpp)       |                                       | [:octocat:](insertion_sort/Python)    |
@@ -20,7 +20,8 @@ This repository contains examples of various algorithms written on different pro
 | [Radix Sort](https://en.wikipedia.org/wiki/Radix_sort)                                          |                                       |                                       |                                       | [:octocat:](radix_sort/Python)        |
 | [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm)                          |                                       | [:octocat:](binary_search/Cpp)        |                                       | [:octocat:](binary_search/Python)     |
 | [Bubble Sort](https://en.wikipedia.org/wiki/Bubble_sort)                                        | [:octocat:](bubble_sort/C)            | [:octocat:](bubble_sort/Cpp)          |                                       |                                       |
-| [Shell Sort](https://en.wikipedia.org/wiki/Shellsort)                                           |                                       |                                       |                                       | [:octocat:](shell_sort/Python)        |
+| [Shell Sort](https://en.wikipedia.org/wiki/Shellsort)                                           | [:octocat:](shell_sort/C)             |                                       |                                       | [:octocat:](shell_sort/Python)        |
+| [Heap Sort](https://en.wikipedia.org/wiki/Heapsort)                                             |                                       |                                       |                                       | [:octocat:](heap_sort/python)        |
 
 
 ## Implemented Data Structures
@@ -29,8 +30,8 @@ This repository contains examples of various algorithms written on different pro
 |:----------------------------------------------------------------------------------------------- |:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|
 | [Queue](https://en.wikipedia.org/wiki/Queue_(abstract_data_type))                               |                                       | [:octocat:](queue/Cpp)                |                                       |                                       |
 | [Stack](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))                               |                                       |                                       | [:octocat:](stack/Java)               | [:octocat:](stack/Python)             |
-| [Linear Linked List](https://en.wikipedia.org/wiki/Linked_list)                                 | [:octocat:](linked_list/C)            |                                       |                                       |                                       |
-| [AVL Tree](https://en.wikipedia.org/wiki/AVL_tree)                                              | [:octocat:](avl_tree/C)               |                                       | [:octocat:](avl_tree/Java)            |                                       |
+| [Linear Linked List](https://en.wikipedia.org/wiki/Linked_list)                                 | [:octocat:](linked_list/C)            |                                       |                                       | [:octocat:](linked_list/Python)       |
+| [AVL Tree](https://en.wikipedia.org/wiki/AVL_tree)                                              | [:octocat:](avl_tree/C)               |                                       | [:octocat:](avl_tree/Java)            | [:octocat:](avl_tree/Python)          |
 
 
 ## Sample Run

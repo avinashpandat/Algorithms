@@ -44,7 +44,7 @@ int extended_euclidean_gcd(int a, int b, int &x, int &y) {
 }
 
 int main() {
-    int a=132, b=24;
+    int a = 132, b = 24;
     int x, y;  //  For linear combination weights in extended euclidean gcd
     if (a >= 0 && b >= 0) {
         cout << "Division Based GCD Output for (" << a << "," << b << "):";
